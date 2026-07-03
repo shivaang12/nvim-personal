@@ -114,6 +114,9 @@ require("mini.completion").setup({
     }
 })
 
+-- nvim mini-indent
+require("mini.indentscope").setup()
+
 --nvim treesitter --
 require("treesitter")
 
