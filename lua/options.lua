@@ -26,7 +26,7 @@ vim.opt.undofile = true
 vim.opt.clipboard:append("unnamedplus")
 vim.opt.isfname:append("@-@")
 -- vim.opt.guicursor = ""
-vim.opt.scrolloff = 10
+vim.opt.scrolloff = 999
 
 vim.opt.colorcolumn = "0"
 vim.opt.signcolumn = "yes"
